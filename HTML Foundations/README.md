@@ -1,6 +1,6 @@
 # HTML Basics - The Odin Project
 
-This directory contains all the files and projects related to the HTML Basics module of The Odin Project. Below is a summary of the key concepts covered in this module:
+This directory contains all the files and projects related to the HTML Foundations module of The Odin Project. Below is a summary of the key concepts covered in this module:
 
 ## 1. **Introduction to HTML and CSS**
    - **HTML (Hypertext Markup Language)** is the backbone of any website. It provides the structure and content, while **CSS (Cascading Style Sheets)** is used to style and layout the webpage.
